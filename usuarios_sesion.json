@@ -1,0 +1,27 @@
+{
+  "actualizadoEn": "2026-11-06T12:16:30.754659",
+  "sesionActiva": {
+    "id": "usr-senati-01",
+    "nombre": "Administrador SENATI",
+    "correo": "admin@senati.pe",
+    "ultimoIngreso": "2026-11-06T12:16:30.754659"
+  },
+  "historialIngresos": [
+    {
+      "idUsuario": "usr-senati-01",
+      "nombre": "Administrador SENATI",
+      "correo": "admin@senati.pe",
+      "fechaIngreso": "2026-11-06T12:16:30.754659",
+      "metodo": "login"
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "usr-senati-01",
+      "nombre": "Administrador SENATI",
+      "correo": "admin@senati.pe",
+      "password": "123456",
+      "fechaRegistro": "2026-11-06T08:00:00.000"
+    }
+  ]
+}

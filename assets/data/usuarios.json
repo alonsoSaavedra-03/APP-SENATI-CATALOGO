@@ -1,0 +1,14 @@
+{
+  "actualizadoEn": "2026-11-06T12:00:00.000",
+  "sesionActiva": null,
+  "historialIngresos": [],
+  "usuarios": [
+    {
+      "id": "usr-senati-01",
+      "nombre": "Administrador SENATI",
+      "correo": "admin@senati.pe",
+      "password": "123456",
+      "fechaRegistro": "2026-11-06T08:00:00.000"
+    }
+  ]
+}
